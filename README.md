@@ -1,6 +1,10 @@
 # Rwyn's Discord Rich Presence - Customizable RPC 
 ### **[Rwyn's Northstar SexMod RPC (pre-built exe ready 2 go)](https://github.com/rwynx/Rwyns-NorthstarSexModRPC/releases)** and a blank template for you to make your own RPC. 
 
+
+  
+<img align="right" src="https://github.com/rwynx/Rwyns-NorthstarSexModRPC/blob/main/assets/assets-2.png?raw=true">
+
 ## Usage - Make sure you have all the dependencies.
 * If you want to use Northstar SexMod RPC, go to **[Releases](https://github.com/rwynx/Rwyns-NorthstarSexModRPC/releases)** tab and download the pre-built exe, IF you want to build it yourself/or make your own, continue to read.
 * `pip install nuitka`
@@ -14,8 +18,9 @@
 
 ## Additional Info
 * **rwyn-northstar-sexmodrpc.py** is the main project.
-* You can use **"empty_template.py"** to make a customized RPC.
+* You can use **"empty_template.py"** to make a customized RPC. 
 * Everything you need to change addressed in the template.
+
 
 ## Contact
 **Discord:** Rwyn#9860
