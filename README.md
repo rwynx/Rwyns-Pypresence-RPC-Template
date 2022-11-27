@@ -25,4 +25,5 @@
 * There is no need for urgent help, but if you upload the rpc you made with template (pypresence), it might be good to display them as sample projects.
 
 ## FAQ
-**(WIP) Not done yet.**
+* **(WIP) Not done yet.**
+* But more info can be found in **[Qwertyquerty's Pypresence](https://github.com/qwertyquerty?tab=repositories)**
