@@ -21,5 +21,8 @@
 * You can use **"empty_template.py"** to make a customized RPC. 
 * Everything you need to change addressed in the template.
 
+## Contributing
+* There is no need for urgent help, but if you upload the rpc you made with template (pypresence), it might be good to display them as sample projects.
+
 ## FAQ
 **(WIP) Not done yet.**
