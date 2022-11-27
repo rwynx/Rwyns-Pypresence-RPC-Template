@@ -7,6 +7,7 @@
 * `pip install pyfiglet` alternatively you can try with `pip install pyfiglet --force` for ASCII text.
 * IF YOU WANT AN ASCII TEXT on console print: pyfiglet fucked for some reason and Chrome/Windows detects this code as virus, so my advice is to build an exe it with;
 `pyinstaller --add-data "Python 3.10.4\Lib\site-packages\pyfiglet;./pyfiglet" --onefile your-app-name.py`
+* IF YOU DONT WANT AN ASCII TEXT on console print: just simply delete that line, otherwise exe won't work.
 * I use **pyinstaller**, you can use whatever you like. But make sure you have the right parameters ^
 * Original exe icon is not included in this package.
 
