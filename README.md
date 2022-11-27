@@ -1,7 +1,7 @@
 # Rwyn's Discord Rich Presence - Customizable RPC 
 ### **[Rwyn's Northstar SexMod RPC (pre-built exe ready 2 go)](https://github.com/rwynx/Rwyns-NorthstarSexModRPC/releases)** and a blank template for you to make your own RPC. 
 
-
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
   
 <img align="right" src="https://github.com/rwynx/Rwyns-NorthstarSexModRPC/blob/main/assets/assets-2.png?raw=true">
 
@@ -15,7 +15,7 @@
 * IF YOU DONT WANT AN ASCII TEXT on console print: just simply delete that line, otherwise exe won't work.
 * I use **pyinstaller**, you can use whatever you like. But make sure you have the right parameters ^
 * Original exe icon is not included in this package.
-
+oki
 ## Additional Info
 * **rwyn-northstar-sexmodrpc.py** is the main project.
 * You can use **"empty_template.py"** to make a customized RPC. 
