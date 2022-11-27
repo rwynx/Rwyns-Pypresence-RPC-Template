@@ -1,7 +1,8 @@
 # Rwyn's Discord Rich Presence - Customizable RPC 
-### Rwyn's Northstar SexMod RPC **(Direct link: [Northstar SexMod RPC](https://github.com/rwynx/Rwyns-NorthstarSexModRPC/releases)** and a blank template for you to make your own RPC. 
+### **[Rwyn's Northstar SexMod RPC (pre-built exe ready 2 go)](https://github.com/rwynx/Rwyns-NorthstarSexModRPC/releases)** and a blank template for you to make your own RPC. 
 
 ## Usage - Make sure you have all the dependencies.
+* If you want to use Northstar SexMod RPC, go to Releases tab and download the pre-built exe, IF you want to build it yourself/or make your own, continue to read.
 * `pip install nuitka`
 * `pip install termcolor` for colored text.
 * `pip install pyfiglet` alternatively you can try with `pip install pyfiglet --force` for ASCII text.
