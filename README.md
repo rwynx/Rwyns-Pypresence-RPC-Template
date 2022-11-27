@@ -15,17 +15,11 @@
 * IF YOU DONT WANT AN ASCII TEXT on console print: just simply delete that line, otherwise exe won't work.
 * I use **pyinstaller**, you can use whatever you like. But make sure you have the right parameters ^
 * Original exe icon is not included in this package.
-oki
+
 ## Additional Info
-* **rwyn-northstar-sexmodrpc.py** is the main project.
+* ~**rwyn-northstar-sexmodrpc.py** is the main project.~ It is not a part of this project anymore, you can still use the template or the released EXE.
 * You can use **"empty_template.py"** to make a customized RPC. 
 * Everything you need to change addressed in the template.
-
-
-## Contact
-**Discord:** Rwyn#9860
-
-**Originally forked from:** **[Qwertyquerty](https://github.com/qwertyquerty)** please visit their Github if you wish to find more info.
 
 ## FAQ
 **(WIP) Not done yet.**
