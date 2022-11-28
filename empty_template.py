@@ -9,7 +9,7 @@ rpc.update(state="state_here",details="detail_here",party_size=[2,4],large_image
 # details = 2nd line, example: "playing XXX"
 # party_size 2,4 = COOP 2/4 (can be changed)
 # large_image = if you want to use an icon, you must upload it to application's Rich Presence page first,
-# then use the file's name with ".ico" ext.
+# then use the file's name without ".ico" ext.
 
 import datetime
 now = datetime.datetime.now()
