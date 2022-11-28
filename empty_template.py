@@ -1,6 +1,6 @@
 from pypresence import Presence
 import time
-rpc = Presence("")
+rpc = Presence("appid_here")
 rpc.connect()
 rpc.update(state="state_here",details="detail_here",party_size=[2,4],large_image="application_icon_here",start=time.time())
 
