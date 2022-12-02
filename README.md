@@ -8,7 +8,7 @@
 ## Usage - Make sure you have all the dependencies.
 If you want to use **Northstar SexMod RPC**, go to **["Releases"](https://github.com/rwynx/Rwyns-NorthstarSexModRPC/releases)** tab and download the pre-built exe, IF you want to build it yourself/or make your own, continue to read.
 
-### Following dependencies are needed if you want to make your RPC just like mine. But there's a problem with **pyfiglet** and only solution I could find was copying pyfiglet folder from python site-packages into my project folder, and adding the parameters in line 5 while using **pyinstaller.** 
+### Following dependencies are needed if you want to make your RPC just like mine. But there's a problem with **pyfiglet** and only solution I could find was copying pyfiglet folder from python site-packages into my project folder, and adding the parameters in line 4 while using **pyinstaller.** 
 * `pip install nuitka`
 * `pip install termcolor` for colored text.
 * `pip install pyfiglet` alternatively you can try with `pip install pyfiglet --force` for ASCII text.
