@@ -1,12 +1,7 @@
 # Rwyn's Discord Rich Presence - Customizable RPC 
-### **[Rwyn's Northstar SexMod RPC (pre-built exe ready 2 go)](https://github.com/rwynx/Rwyns-NorthstarSexModRPC/releases)** and a blank template for you to make your own RPC. 
-
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
   
-<img align="right" src="https://github.com/rwynx/Rwyns-NorthstarSexModRPC/blob/main/assets/assets-2.png?raw=true">
-
 ## Usage - Make sure you have all the dependencies.
-If you want to use **Northstar SexMod RPC**, go to **["Releases"](https://github.com/rwynx/Rwyns-NorthstarSexModRPC/releases)** tab and download the pre-built exe, IF you want to build it yourself/or make your own, continue to read.
 
 ### Following dependencies are needed if you want to make your RPC just like mine. But there's a problem with **pyfiglet** and only solution I could find was copying pyfiglet folder from python site-packages into my project folder, and adding the parameters in line 4 while using **pyinstaller.** 
 * `pip install nuitka`
