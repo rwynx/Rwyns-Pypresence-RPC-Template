@@ -19,8 +19,7 @@
 * Everything you need to change addressed in the template.
 
 ## Contributing
-* There is no need for help, but if you upload the rpc you made with template (pypresence), it might be good to display them as sample projects.
+* It's just an RPC 💀 there is no need for help, but if you upload the rpc you made with template (pypresence), it might be good to display them as examples.
 
-## FAQ
-* **(WIP) Not done yet.**
-* But more info can be found in **[Qwertyquerty's Pypresence](https://github.com/qwertyquerty?tab=repositories)**
+
+### More info can be found in **[Qwertyquerty's Pypresence](https://github.com/qwertyquerty?tab=repositories)**
