@@ -19,7 +19,7 @@
 * Everything you need to change addressed in the template.
 
 ## Contributing
-* It's just an RPC 💀 there is no need for help, but if you upload the rpc you made with template (pypresence), it might be good to display them as examples.
+* It's just an RPC and obviously there is no need for help, but if you upload the rpc you made with template (pypresence), it might be good to display them as examples.
 
 
 ### More info can be found in **[Qwertyquerty's Pypresence](https://github.com/qwertyquerty?tab=repositories)**
