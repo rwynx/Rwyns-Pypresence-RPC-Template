@@ -14,12 +14,8 @@
 * Original exe icon is not included in this package.
 
 ## Additional Info
-* ~**rwyn-northstar-sexmodrpc.py** is the main project.~ It is not a part of this project anymore, you can still use the template or the released EXE.
 * You can use **"empty_template.py"** to make a customized RPC. 
 * Everything you need to change addressed in the template.
-
-## Contributing
-* It's just an RPC and obviously there is no need for help, but if you upload the rpc you made with template (pypresence), it might be good to display them as examples.
 
 
 ### More info can be found in **[Qwertyquerty's Pypresence](https://github.com/qwertyquerty?tab=repositories)**
